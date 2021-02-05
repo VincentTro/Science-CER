@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+# When plates move, the land they interact with changes.
 
+### What are tectonic plates?
 
+Tectonic plates are mobile slabs of rock of various shapes and sizes that make up the surface of the earth. These plates float on magma in the mantle. We believe that these plates move over time. To support that theroy we have made maps with all these boundries hiighted.
+
+[Image](https://images.ctfassets.net/cnu0m8re1exe/3szcAMhbvRX78ic6hs6bj5/427e1508d9e3bcb18cfacf117edc056e/EWKplatetectonics2.png?w=650&h=433&fit=fill)
 
 ### Markdown
 

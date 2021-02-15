@@ -5,6 +5,7 @@ paginate: 1
 baseurl: "/Science-CER"
 permalink: pretty
 starturl: /Science-CER/page3
+paginate_path: "/baseurl/page:num/"
 
 # Gems
 plugins:

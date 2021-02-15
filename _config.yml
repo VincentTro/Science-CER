@@ -1,11 +1,10 @@
 # Setup
 title: Science CER
-url: https://vincenttro.github.io
+url: https://vincenttro.github.io/
 paginate: 1
-paginate_path: "/Science-CER/page:num/"
-baseurl: "/Science-CER"
+baseurl: ""
 permalink: pretty
-starturl: /Science-CER/Science-CER/page3/
+starturl: /page3
 
 # Gems
 plugins:
@@ -44,4 +43,5 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Start
-    url: /Science-CER/Science-CER/page3/
+    url: /page3
+

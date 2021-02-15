@@ -5,7 +5,7 @@ paginate: 1
 paginate_path: "/Science-CER/page:num/"
 baseurl: "/Science-CER"
 permalink: pretty
-starturl: /Science-CER/Science-CER/page6/
+starturl: /Science-CER/Science-CER/page3/
 
 # Gems
 plugins:
@@ -44,5 +44,5 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Start
-    url: /Science-CER/Science-CER/page6/
+    url: /Science-CER/Science-CER/page3/
 

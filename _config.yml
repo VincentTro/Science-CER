@@ -1,11 +1,9 @@
 # Setup
-title: Science CER
-url: https://vincenttro.github.io
+title: Dark Poole
+url: https://getpoole.com
 paginate: 1
-paginate_path: "/Science-CER/page:num/"
-baseurl: "/Science-CER"
+baseurl: ""
 permalink: pretty
-starturl: /Science-CER/Science-CER/page3/
 
 # Gems
 plugins:
@@ -34,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Vincent Troiani
-  url: 
-  email: vincenttro0251@k12.ipsd.org
+  name: Mark Otto
+  url: https://twitter.com/mdo
+  email: markdotto@gmail.com
 
 # Custom vars
 version: 3.0.0
@@ -44,7 +42,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Blog
-    url: /dark-poole/archive
+    url: /archive
 
   - title: About
-    url: /dark-poole/about
+    url: /about

@@ -2,9 +2,9 @@
 title: Science CER
 url: https://vincenttro.github.io/
 paginate: 1
-baseurl: ""
+baseurl: "/Science-CER"
 permalink: pretty
-starturl: /page3
+starturl: /Science-CER/page3
 
 # Gems
 plugins:
@@ -43,5 +43,5 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Start
-    url: /page3
+    url: /Science-CER/page3
 
